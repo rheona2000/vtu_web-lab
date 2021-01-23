@@ -1,0 +1,27 @@
+<?xml-stylesheet type="text/css" href="5.css"?>
+<students>
+<student>
+<usn>1st15is001</usn>
+<name>vishwas</name>
+<college>sait</college>
+<branch>ise</branch>
+<year>2015</year>
+<email>vishwas@gmail.com</email>
+</student>
+<student>
+<usn>1st15is002</usn>
+<name>madhan</name>
+<college>sait</college>
+<branch>ise</branch>
+<year>2015</year>
+<email>madhan@gmail.com</email>
+</student>
+<student>
+<usn>1st15is003</usn>
+<name>shar</name>
+<college>sait</college>
+<branch>ise</branch>
+<year>2015</year>
+<email>shar@gmail.com</email>
+</student>
+</students>
